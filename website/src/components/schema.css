@@ -1,0 +1,16 @@
+.schema-container {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    bottom: 10px; /* Distance from the bottom */
+    right: 10px; /* Adjust as needed */
+    padding: 1px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px); /* Blur effect */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Transparent white */
+    justify-content: center; /* Centre verticalement l'image */
+    align-items: center; /* Centre horizontalement l'image */
+  }

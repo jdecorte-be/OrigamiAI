@@ -1,0 +1,7 @@
+The origami crane folding here has several errors:
+
+1. The upper layer's point does not lie exactly at the bottom intersection point, which is essential for correct symmetry.
+2. The left and right sides of the upper layer should be folded inward to meet at the vertical center line, creating a kite shape on top.
+3. It seems that an incorrect fold was made from the bottom side, protruding up, which doesn't match any standard step in creating an origami crane.
+
+Please unfold the incorrect parts and ensure that each fold is precise and sharp, and that symmetry is maintained at all times for the proper shape.

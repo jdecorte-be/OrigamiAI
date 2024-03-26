@@ -1,0 +1,14 @@
+The image you provided shows that you have made an incorrect diagonal fold. The correct step at this stage of the origami crane would be to create a square base, which involves folding the paper diagonally both ways and horizontally both ways to create creases, then collapsing the model along those creases to form a square shape (also known as a preliminary fold). Here are the issues with your current folding:
+
+1. You have folded the paper into a single diagonal fold from corner to corner, which is typically only the first of several folds needed to create a square base.
+
+2. You haven't performed the second diagonal fold, which should go from the opposite corners.
+
+To proceed correctly:
+
+- Unfold the paper to a full square.
+- Fold it diagonally in the other direction as well, creating an "X" crease pattern.
+- Turn the paper over and fold it in half top to bottom and then left to right, to create a "taco" shape and then a flat rectangle.
+- With the creases in place, open it slightly and collapse it along the creases into the square base, making sure all points are aligned and creases are crisp.
+
+Once you have the square base, you will be in a position to carry on with the following steps of the crane.

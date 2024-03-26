@@ -1,0 +1,1 @@
+You're at the very beginning! You have a square piece of paper with a color gradient from red at one corner to purple at the opposite, laid out flat. It's divided into a grid with labels on each cell from A1 to H8 like a chessboard. Now, you're ready to start folding.
