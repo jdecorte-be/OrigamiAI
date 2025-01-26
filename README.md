@@ -1,7 +1,4 @@
 # OrigamiAI
-
-## Overview
-
 OrigamiAI is a project developed during a hackathon, aiming to integrate AI capabilities into web applications. The project leverages Azure's OpenAI services to process and analyze images, providing intelligent insights and functionalities.
 
 ## Project Structure
